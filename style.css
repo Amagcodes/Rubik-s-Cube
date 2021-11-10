@@ -1,0 +1,204 @@
+    img.cube {
+        width: 230px;
+        height: 200px;
+        float: right;
+        margin: 20px;
+        align-self: right;
+    }
+
+    
+  
+div.start{
+    width: 1000px;
+    height: 200px;
+    background-color: deepskyblue;
+    margin: 20px;
+}     
+
+div.home{
+    width: 1200px;
+    height: 200px;
+    background-color: lime;
+    margin: 20px;
+    
+}
+
+div.cube{
+    width: 1200px;
+    height: 200px;
+    background-color:red;
+    margin: 20px;
+}
+
+div.history{
+    width: 1200px;
+    height: 200px;
+    background-color:deepskyblue;
+    margin: 20px;
+}
+
+div.facts{
+    width: 1200px;
+    height: 200px;
+    background-color: lime;
+    margin: 20px;
+}
+
+
+
+div.privacy{
+    width: 1200px;
+    height: 200px;
+    background-color: red;
+    margin: 20px;
+}
+
+div.erno_div{
+    width:800px;
+    height: 500px;
+    background-color: deepskyblue;
+}
+
+img.erno_image{
+    width:400px;
+    height: 500px;
+    float:right;
+    margin:20px;
+}
+
+div.fact{
+    width: 1200px;
+    height: 100px;
+    background-color: deepskyblue;
+}
+
+div.fact_1{
+    width: 1200px;
+    height: 100px;
+    background-color: lime;
+}
+
+
+div.fact2{
+    width: 1200px;
+    height: 100px;
+    background-color: red;
+}
+
+div.fact3{
+    width: 1200px;
+    height: 100px;
+    background-color: deepskyblue;
+}
+
+
+div.fact4{
+    width: 1200px;
+    height: 100px;
+    background-color: lime;
+}
+
+
+div.fact5{
+    width: 1200px;
+    height: 100px;
+    background-color: red;
+}
+
+div.fact6{
+    width: 1200px;
+    height: 100px;
+    background-color: deepskyblue;
+}
+
+div.fact7{
+    width: 1200px;
+    height: 100px;
+    background-color: lime;
+}
+
+div.fact8{
+    width: 1200px;
+    height: 100px;
+    background-color: red;
+}
+
+div.fact9{
+    width: 1200px;
+    height: 100px;
+    background-color: deepskyblue;
+}
+
+div.fact10{
+    width: 1200px;
+    height: 100px;
+    background-color: lime;
+}
+
+img.erno_award{
+    width: 500px;
+    
+    margin: 30px;
+    height: 200px;
+   
+    
+
+}
+
+div.award_text{
+    width: 1200px;
+    height: 100px;
+    
+    background-color: lime;
+    
+}
+
+
+div.step_1{
+    width: 800px;
+    height: 150px;
+    background-color: lime;
+}
+
+div.info2{
+    width: 1200;
+    height: 350px;
+    background-color: deepskyblue;
+}
+
+div.hpage{
+    width: 1200px;
+    height: 300px;
+    background-color: lime;
+    
+}
+
+img.picture{
+    width: 300px;
+    height: 290px;
+    float: right;
+    margin: 20px;
+}
+
+
+div.rintro{
+    width:1200px;
+    height:200px;
+
+}
+
+div.centers{
+    width: 1200px;
+    height: 200px;
+}
+
+div.corner{
+    width: 1200px;
+    height: 200px;
+}
+
+div.edges{
+    width: 1200px;
+    height: 200px;
+}
+
